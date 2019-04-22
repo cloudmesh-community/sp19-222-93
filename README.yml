@@ -7,6 +7,7 @@ owner:
   semester: sp19
 project:
   - title: "Rookie Fantasy Football Predictions"
-    url: https://github.com/cloudmesh-community/sp19-222-90
+    url: https://github.com/cloudmesh-community/sp19-222-90/blob/master/project-report/report.md
     code: https://github.com/cloudmesh-community/sp19-222-90/tree/master/project-code
-    keywords: 
+    keywords: "Point Prediction"
+ 
